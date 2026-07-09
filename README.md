@@ -51,7 +51,7 @@ This repository contains two Data Science projects developed using Python, Panda
 ## Repository Structure
 
 ```
-internship/
+upskillCampus/
 │
 ├── README.md
 ├── requirements.txt
