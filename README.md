@@ -53,8 +53,7 @@ This repository contains two Data Science projects developed using Python, Panda
 ```
 upskillCampus/
 │
-├── README.md
-├── requirements.txt
+├── README.me
 │
 ├── Smart-City-Traffic-Forecasting/
 │   ├── forecasting.py
