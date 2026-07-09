@@ -57,20 +57,21 @@ internship/
 ├── requirements.txt
 │
 ├── Smart-City-Traffic-Forecasting/
-│   ├── data/
-│   ├── images/
-│   ├── notebook/
-│   ├── src/
+│   ├── forecasting.py
 │   ├── main.py
-│   └── README.md
+│   ├── requirements.txt
+│   ├── data/
+│   └── visualisation.py
+│   
 │
 └── Agriculture-Crop-Prediction/
+│   ├── cleaning.py
     ├── data/
-    ├── images/
-    ├── notebook/
-    ├── src/
     ├── main.py
-    └── README.md
+    ├── prediction.py
+    ├── requirements.txt
+    └── visualisation.py
+    
 ```
 
 ---
