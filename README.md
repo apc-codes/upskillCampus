@@ -48,14 +48,64 @@ This repository contains two Data Science projects developed using Python, Panda
 
 ---
 
+## Repository Structure
+
+```
+internship/
+│
+├── README.md
+├── requirements.txt
+│
+├── Smart-City-Traffic-Forecasting/
+│   ├── data/
+│   ├── images/
+│   ├── notebook/
+│   ├── src/
+│   ├── main.py
+│   └── README.md
+│
+└── Agriculture-Crop-Prediction/
+    ├── data/
+    ├── images/
+    ├── notebook/
+    ├── src/
+    ├── main.py
+    └── README.md
+```
+
+---
+
 ## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/apc-codes/upskillCampus.git
+```
+
+Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Run
+---
 
-```bash
-python main.py
-```
+## Skills Demonstrated
+
+- Python Programming
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Machine Learning
+- Linear Regression
+- Git & GitHub
+- Jupyter Notebook
+
+---
+
+## Author
+
+**Avhijan Paul Choudhury**
+
+BE , Jadavpur University (2025–2029)
