@@ -1,4 +1,4 @@
-# Upskill Campus Internship Training Projects
+# Upskill Campus Training Projects
 
 ## Overview
 
